@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+SC&family=Goudy+Bookletter+1911');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+SC');
 
 /**
  * Site header
@@ -178,7 +178,6 @@
  * Page content
  */
 .page-content {
-  font-family: 'Goudy Bookletter 1911';
   padding: $spacing-unit 0;
   flex: 1;
 }

@@ -27,7 +27,7 @@ url: "https://michaelye.me/packard1" # the base hostname & protocol for your sit
 facebook_username: IAmMichaelYe
 
 # Build settings
-markdown:kramdown
+markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed

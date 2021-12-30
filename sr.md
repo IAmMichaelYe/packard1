@@ -22,4 +22,4 @@ Please don't hesitate to come to us; we are always happy for a chat!
 
 ---
 
-[Privacy statement](https://michaelye.me/pod5c/privacy)
+[Privacy statement](https://michaelye.me/packard1/privacy)

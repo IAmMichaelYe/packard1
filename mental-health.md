@@ -8,7 +8,7 @@ permalink: /mental-health/
 
 If you are experiencing anxiety, stress, depression, irregular sleep, poor concentration, lack of motivation, or any other symptoms, please message me, knock on my door or find me around Bruce so we can arrange a time to chat. I can always provide you with resources or make referrals, or I can just sit with you and listen.
 
-Alternatively, you can fill out [this form](https://forms.office.com/r/dyKxr3qxPZ) to get in touch.
+Alternatively, you can fill out my [wellbeing and support form](https://forms.office.com/r/A5iteWbNVn) to get in touch.
 
 ### ANU Counselling
 

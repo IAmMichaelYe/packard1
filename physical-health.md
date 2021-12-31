@@ -20,5 +20,3 @@ permalink: /physical-health/
 - [University Pharmarcy](https://goo.gl/maps/oU7xonsPGawscgCPA)
 - [Pharmacy on Northbourne](https://goo.gl/maps/KkezaTBabT4qCTBu9)
 - [Pharmarcy on Petrie](https://g.page/ThePharmacyonPetrie?share)
-
-University Pharmacy has a FREE delivery service on-campus. For more details, please see [here](https://michaelye.me/pod5c/2021/03/23/pharmacy-delivery-service.html).

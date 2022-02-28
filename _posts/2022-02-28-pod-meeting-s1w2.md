@@ -20,7 +20,7 @@ Unfortunately, in-person events are still banned on campus. Pod meetings will be
 
 ### If you develop symptoms
 
-If you develop cold- or flu-like symptoms, you will need to complete a PCR test.
+If you develop cold- or flu-like symptoms, you will need to complete a RAT first. If you test negative on the RAT, you will need to complete PCR test as well.
 
 ### If you test positive
 
